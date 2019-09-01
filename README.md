@@ -4,3 +4,5 @@ Voici un exemple d'apprentissage non-supervisé sur l'étude de règles d'associ
 - K-Means
 - Approche hierarchiques
 - Apriori et règle d'association avec la librairie Mlxtend
+
+Merci de vous référer au Notebook "AssociationRuleMarketBasket.ipynb"

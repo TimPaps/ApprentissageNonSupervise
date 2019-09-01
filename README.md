@@ -5,4 +5,4 @@ Voici un exemple d'apprentissage non-supervisé sur l'étude de règles d'associ
 - Approche hierarchiques
 - Apriori et règle d'association avec la librairie Mlxtend
 
-L'étude est accessible dans le notebook "AssociationRuleMarketBasket.ipynb" et les données dans le fichier "grocery".
+L'étude est accessible dans le notebook "AssociationRuleMarketBasket.ipynb" et les données dans le fichier "groceries.csv".
